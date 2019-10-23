@@ -1,0 +1,55 @@
+p {
+	font-family: "Courier";
+	font-size: 24px;
+	}
+	
+body {
+	background-image: url("https://previews.123rf.com/images/ddt7/ddt71303/ddt7130300008/18339876-aged-wrapper-wallpaper-shabby-old-seamlessly-tiled-paper-textured-background-.jpg");
+}
+main {
+	border: 1px solid black;
+	box-shadow: 1px;
+	text-align: center;
+	width: 80%
+	max-width: 800px
+}
+.border{
+border-width: 25px;
+border-color: white;
+border-style: solid;	
+}
+header{
+	background-color: #654321;
+	color: lightgray;
+	text-align: center;
+}
+img {
+	box-shadow: 20px white;
+}
+
+#side-menu {
+    margin: 10px;
+    float: left;
+    background-color: #654321;
+    box-shadow: 2px 2px 5px gray;
+    text-align: center;
+}
+
+#side-menu ul {
+    list-style-type: none;
+}
+
+#side-menu ul li {
+    padding: 5px;
+    width: 200px;
+    margin: 0px;
+    background-color: lightbrown;
+    box-shadow: 2px 2px 5px gray;
+}
+
+#side-menu ul li a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}

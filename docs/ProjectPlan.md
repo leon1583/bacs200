@@ -1,7 +1,7 @@
 
 # Essential Project Plan
 
-Upcoming Project Plan (Project 12)
+Upcoming Project Plan (Project 12) for Project 13
 
 
 ## Extra Documents (not yet linked)
@@ -10,39 +10,48 @@ Upcoming Project Plan (Project 12)
 * [Code Plan](Code.md) - not created yet
 * [Test Plan](Test.md) - not created yet
 
+## Project 13- Blog for a Cause
+* Select a cause
+* Examine the cause.
+   - Write 7 word mission statement for an ogranization
+   - Write a vision statement of what they do, how they do it, why (50 words)
+   - Explain their strategy
+* Populate under /bacs200/projects/non-profit.html
 
-### The Plan
-* I will need to fill out the requirements
-* Be sure to build the design
-* Show the code
-* Test the code
-
-
-### The Requirements
-* Primary goal- have a working project
-* Priorities - Time, Money, Function
-   * Time is something you will never get back. Make the most of each opportunity
-* Top 5 objectives
-   * Working Page
-   * Updating Code
-   * BACS 350 Working
-   * GitHub Updated
-   * Focus on school work
-* Customer interactions
-   * N/A at this time
+# The Plan
+* Select Organization
+* Build Webpage using a Bootstrap page
+* Add links and photos to their site
+* Publish site
 
 
-### Design
-* Show the code design
-* Maybe take from BACS 350
+## The Requirements
+Elements of a successful page
+
+- Capture the value proposition in 7 words
+- Describe the compelling vision in 50 words
+- Discuss the three strategies that will support the visions
+    * These may be clear from published material
+    * They may also be created by you as a suggested strategy that the organization might use
+- Tell how people can get involved
+    * Give three concrete next steps for reader to choose
+- Describe how people can get in contact with the leaders
+    * Visual appeal and first impression are vital to capture readers
+    * Clean simple page layout with a logical reading order
+    * Use images to convey emotion
 
 
-### Code
+
+## Design
+* Pick a Bootstrap Design
+
+
+## Code
 * Use HTML and CSS
 
 
-### Test
-* Test the coded
+## Test
+* Test the code
 
 
 # My GitHub
